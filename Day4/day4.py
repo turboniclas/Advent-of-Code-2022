@@ -30,5 +30,3 @@ def full_overlap(sections):
 
 print(fully_contain(data))
 print(full_overlap(data))
-        
-            
